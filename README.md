@@ -1,3 +1,3 @@
 # Single precision floating point binary converter
 
-This converter is inaccurate especially for 1.x numbers.
+This converter is inaccurate for two last bits.
